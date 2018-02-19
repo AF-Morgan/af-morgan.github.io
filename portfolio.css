@@ -16,6 +16,7 @@ body {
 
 .gallery {
 	padding-top: 5%;
+	padding-bottom: 2%;
 }
 
 #header {
@@ -48,4 +49,8 @@ body {
 
 .jumbotron {
 	color: black;
+}
+
+#footer {
+
 }
